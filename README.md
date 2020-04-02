@@ -1,4 +1,4 @@
-# add-non-breaking-spaces
+# Add non-breaking spaces
 
 > Set of useful functions to handle non-breaking spaces in character strings
 
