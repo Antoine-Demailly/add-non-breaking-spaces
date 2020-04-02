@@ -1,8 +1,15 @@
 {
   "name": "@demailly/add-non-breaking-spaces",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Useful helpers to add needed non-breaking spaces on string",
-  "keywords": ["helper", "util", "non-breaking", "punctuation", "spaces", "string"],
+  "keywords": [
+    "helper",
+    "util",
+    "non-breaking",
+    "punctuation",
+    "spaces",
+    "string"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
