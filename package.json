@@ -1,0 +1,19 @@
+{
+  "name": "add-non-breaking-spaces",
+  "version": "1.0.0",
+  "description": "Useful helpers to add needed non-breaking spaces on string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antoine-Demailly/add-non-breaking-spaces.git"
+  },
+  "author": "Antoine Demailly <contact@antoinedemailly.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Antoine-Demailly/add-non-breaking-spaces/issues"
+  },
+  "homepage": "https://github.com/Antoine-Demailly/add-non-breaking-spaces#readme"
+}
