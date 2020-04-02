@@ -42,4 +42,4 @@ addNonBreakingSpaces(str);
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2020-present **Antoine Demailly**
+**Copyright (c) 2020-present — Antoine Demailly**
