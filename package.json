@@ -1,5 +1,5 @@
 {
-  "name": "add-non-breaking-spaces",
+  "name": "@demailly/add-non-breaking-spaces",
   "version": "1.0.0",
   "description": "Useful helpers to add needed non-breaking spaces on string",
   "main": "index.js",
